@@ -1,0 +1,7 @@
+#set {
+ text-align:center,
+}
+#name {
+    display:'flex';
+    width:100%
+}
